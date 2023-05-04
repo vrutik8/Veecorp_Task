@@ -1,0 +1,100 @@
+body{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+hr{
+    height: 2px;
+    background-color: #ff8800;
+    border: none;
+}
+
+ol li{
+    list-style: none;
+}
+
+.logo{
+    display: flex;
+}
+
+.services{
+    width: 5rem;
+    padding: 22px;
+}
+
+.service-flex{
+    display: flex;
+    padding: 22px;
+}
+
+.container-flex{
+    display: flex;
+}
+
+.container-flex-content2{
+    /* border: 2px solid red; */
+    margin-left: 6rem;
+    margin-top: 6rem;
+    background-color: rgb(255, 255, 255);
+   height: 500px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    
+    
+}
+
+.content-form{
+    width: 400px;
+    margin: 0 auto;
+}
+
+.content-form h4{
+    color: rgb(53, 184, 255);
+}
+
+.robot img{
+    height: 38px;
+    /* padding: 22px; */
+    padding-left: 22px;
+    padding-top: 22px;
+}
+
+.robot{
+    background-color: rgb(184, 184, 182);
+    width: 17rem;
+    height: 5rem;
+    margin: 14px;
+}
+
+.btn{
+    width:60px;
+    display: block;
+    /* line-height: 22px; */
+    margin-top: 22px;
+    background-color: orange;
+    color: white;
+    margin: 0 auto;
+    
+}
+
+.center h5{
+    display: block;
+    width: 170px;
+    padding: 12px;
+    margin: 0 auto;
+}
+
+
+
+.nav-logo{
+    width: 142px;
+    height: 100px;
+}
+
+nav{
+    display: flex;
+}
+
+.center{
+    margin-top: 25px;
+}
