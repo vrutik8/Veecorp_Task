@@ -1,0 +1,42 @@
+/* navbar */
+nav>ul{
+    display: flex;
+    justify-content: space-between;
+    /* vertical-align: center; */
+    /* margin-top: 22p; */
+}
+
+nav > ul> li{
+    list-style-type: none;
+}
+
+.logo1{
+    width: 1px;
+    height: 1px;
+    /* margin-top: 32px; */
+}
+
+#house{
+    width: 2rem;
+    height: 2rem;
+    margin-left: 32rem;
+    margin-top: 32px;
+}
+
+.content{
+    margin-top: 32px;
+}
+
+button{
+    margin-top: 32px;
+    background-color: rgb(243, 173, 45);
+    color: white;
+    border: 1px solid black;
+    padding: 1rem;
+}
+
+/* hr */
+hr{
+    /* margin-top: 100px; */
+    border: 4px solid orange;
+}
